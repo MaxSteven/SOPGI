@@ -62,10 +62,14 @@ This way you can preview Recursion very quickly before moving into tweaking GI e
 
 More info about this node soon.
 
+
+
 # SOPGI BRDF
 This node will prepare a geometry to be plugged and processed by the SOPGI ARay node.
 It will attach all the shading attributes so in some way this node is your Geometry Shader.
 ![alt text](https://github.com/alexnardini/SOPGI/blob/master/img/SOPGI_brdf.jpg)
+
+
 
 # SOPGI CornellBox
 ![alt text](https://github.com/alexnardini/SOPGI/blob/master/img/SOPGI_cornellBox.jpg)
@@ -77,9 +81,13 @@ like a sphere and some standard Houdini geo and they will also be all animated
 so the sphere and other geo will rotate inside the CornellBox
 for you to test out SOPGI render feautures.
 
+
+
 # SOPGI Light
 This node will let you convert any Geo into a SOPGI Light to be plugged into the SOPGI ARay node.
 In this implementation LIghts are very simple, they have a color, and intensity, a distance radius and samples count.
+
+
 
 # SOPGI RAYviz
 This node is an utility node to let you visualize Light Rays along their traced path.
