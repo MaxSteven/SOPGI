@@ -50,7 +50,7 @@ It will generate all the render data and output the final attributes value.
 It will also comp out the final result and store it on the Cd channel for you ro review.
 The second optional output, will output only the photonmap points.
 
-The "USE BRDF" option on the main ARay option tab will disable all the heavy calculation
+The " `USE BRDF` " option on the main ARay option tab will disable all the heavy calculation
 and only output Diffuse and Specular to work with the Recursive Reflections and Refractions.
 This way you can preview Recursion very quickly before moving into tweaking GI etc.
 ![alt text](https://github.com/alexnardini/SOPGI/blob/master/img/SOPGI_useBRDF.jpg)
