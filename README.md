@@ -23,7 +23,11 @@ Tested on SideFX Houdini 16.x.x
  
  Everything in here is more for educational purpose
  so do not expect a SolidAngle Arnold render quality 
- and performance out of this... ;)
+ and performance out of this.
+ 
+ Some of the functionality have been implemented in a
+ simple fashion.
+ Please update this repository if you add or improve anything.
 ______________________________________________________
 
 # CONTENTS
