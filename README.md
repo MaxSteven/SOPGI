@@ -41,6 +41,8 @@ The second optional output, will output only the photonmap points.
 The "USE BRDF" option on the main ARay option tab will disable all the heavy calculation
 and only output Diffuse and Specular to work with the Recursive Reflections and Refractions.
 This way you can preview Recursion very quickly before moving into tweaking GI etc.
+![alt text](https://github.com/alexnardini/SOPGI/blob/master/img/SOPGI_useBRDF.jpg)
+
 
 More info about this node soon.
 
