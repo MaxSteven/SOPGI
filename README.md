@@ -1,10 +1,10 @@
+# SOPGI
+A SideFX Houdini `VEX raytracer` with photon mapping global illumination and full recursive reflections and refractions.
+Tested on SideFX Houdini 16.x.x
+
 ![alt text](https://github.com/alexnardini/SOPGI/blob/master/img/SOPGI_cover.jpg)
 `Very high poly count geometry processed with SOPGI at high settings. Viewport is set to Hidden Wireframe`
 
-# SOPGI
-A SideFX Houdini `VEX raytracer` with photon mapping global illumination and full recursive reflections and refractions.
-
-Tested on SideFX Houdini 16.x.x
 
 ### SOPGI work on the geometry points, so to viz the result properly set your viewport to HIDDEN LINE INVISIBLE mode ( WIREFRAME ) 
 ![alt text](https://github.com/alexnardini/SOPGI/blob/master/img/SOPGI_intro.jpg)
