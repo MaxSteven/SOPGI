@@ -3,7 +3,7 @@ A SideFX Houdini VEX raytracer with photon mapping global illumination and full 
 
 Tested on SideFX Houdini 16.x.x
 
-![alt text](https://github.com/alexnardini/SOPGI/blob/master/SOPGI_screenshot.jpg)
+![alt text](https://github.com/alexnardini/SOPGI/blob/master/img/SOPGI_screenshot.jpg)
 
 # DISCLAIMER
  SOPGI is a personal side project to teach me
