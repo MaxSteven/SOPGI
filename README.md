@@ -65,4 +65,6 @@ This node is an utility node to let you visualize Light Rays along their traced 
 It include light bounces so you can specify how many light bounces you want to viz.
 Since Recursions has been implemented later, this node doen not take in account
 transparent/IOR geometry.
+![alt text](https://github.com/alexnardini/SOPGI/blob/master/img/SOPGI_RAYviz.jpg)
+
 
