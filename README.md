@@ -1,3 +1,4 @@
+![alt text](https://github.com/alexnardini/SOPGI/blob/master/img/SOPGI_cover.jpg)
 # SOPGI
 A SideFX Houdini `VEX raytracer` with photon mapping global illumination and full recursive reflections and refractions.
 
