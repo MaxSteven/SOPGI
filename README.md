@@ -32,7 +32,7 @@ ______________________________________________________
 
 # CONTENTS
 SOPGI is comprised of a set of nodes to generate and store
-a proper Raytrace, GI, ShadowMaps and Recursions
+a Raytrace, GI, ShadowMaps and Recursions
 on a per point level.
 
 Every aspect of the render data
