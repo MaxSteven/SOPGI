@@ -49,10 +49,33 @@ ______________________________________________________
 
 # SOPGI Aray
 This node is the core renderer.
+
+
 It will generate all the render data and output the final attributes value.
 It will also comp out the final result and store it on the Cd channel for you ro review.
 The second optional output, will output only the photonmap points.
 ![alt text](https://github.com/alexnardini/SOPGI/blob/master/img/SOPGI_aov_attrib.jpg)
+
+It is subdivided in 3 main Tabs: `ARay Core`, `ARay Sample Work` and `ARay Compositing`.
+![alt text](https://github.com/alexnardini/SOPGI/blob/master/img/SOPGI_aray_node_menus.jpg)
+
+`ARay Core`:
+Will give you the ability to change the number of samples to use for the Raycasting calculation.
+For example you can change the number og photons or AmbientOcclusion rays to use.
+There are also optimization you can tweak to speed up the calculation and
+every parameter responsible for speeding up the process
+are marked with an Astersisk `*` in front of their name.
+
+`ARay Sample Work`
+Since everthing get stored on photons, SOPGI ARay create a point cloud
+with all the necessary attributes and everything get transferred to the Geometry
+using point clouds mechanism. This tab let you control how those values get
+transferred like the point cloud Radius, precision and Gaussian Blur filter.
+
+`ARay Compositing`
+This tab let you tweak the way every single render data get composited together.
+Since this happen after the raycasting, depending on your geometry tessellation,
+it can be as fast as realtime.
 
 The " `USE BRDF` " option on the main ARay option tab will disable all the heavy calculation
 and only output Diffuse and Specular to work with the Recursive Reflections and Refractions.
