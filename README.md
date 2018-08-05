@@ -55,7 +55,7 @@ This node is the core renderer.
 
 
 It will generate all the render data and output the final attributes value.
-It will also comp out the final result and store it on the Cd channel for you ro review.
+It will also comp out the final result and store it on the `Cd` channel for you ro review.
 The second optional output, will output only the photonmap points.
 ![alt text](https://github.com/alexnardini/SOPGI/blob/master/img/SOPGI_aov_attrib.jpg)
 `Final SOPGI result followed from Left to Right by: BRDF, AO, GI and Shadows samples.`
