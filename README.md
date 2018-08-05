@@ -17,6 +17,10 @@ Tested on SideFX Houdini 16.x.x
  It is mainly a solution to store lighting, shading and GI
  data into the geometry to use later for things
  like any other attribute.
+ 
+ It's been architected to give you the best result as quick as
+ I could possibly make it so it is to be considered
+ a very Novel approach in many areas.
 ______________________________________________________
 
 # CONTENTS
