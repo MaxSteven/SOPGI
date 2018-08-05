@@ -1,7 +1,7 @@
 # SOPGI
 A Houdini VEX raytracer with photon mapping global illumination and full recursive reflections and refractions
 
- DISCLAIMER__________________________________________
+ DISCLAIMER
 ______________________________________________________
  SOPGI is a personal side project to teach me
  how to do mostly global illumination with photons
