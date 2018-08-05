@@ -6,7 +6,7 @@ A SideFX Houdini `VEX raytracer` with photon mapping global illumination and ful
 
 Tested on SideFX Houdini 16.x.x
 
-# SOPGI work on the geometry points, so to viz the result properly set your viewport to HIDDEN LINE INVISIBLE mode ( WIREFRAME ) 
+### SOPGI work on the geometry points, so to viz the result properly set your viewport to HIDDEN LINE INVISIBLE mode ( WIREFRAME ) 
 ![alt text](https://github.com/alexnardini/SOPGI/blob/master/img/SOPGI_intro.jpg)
 
 # DISCLAIMER
