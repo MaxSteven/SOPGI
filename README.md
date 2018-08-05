@@ -61,8 +61,7 @@ The second optional output, will output only the photonmap points.
 
 
 ![alt text](https://github.com/alexnardini/SOPGI/blob/master/img/SOPGI_aray_node_menus.jpg)
-It is subdivided in 3 main Tabs: `ARay Core`, `ARay Sample Work` and `ARay Compositing`.
-
+It is subdivided in 3 main Tabs:
 
 #### Aray Core:
 Will give you the ability to change the number of samples to use for the Raycasting calculation.
