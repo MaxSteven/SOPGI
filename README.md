@@ -108,7 +108,12 @@ This node will prepare a geometry to be plugged and processed by the SOPGI ARay 
 It will attach all the shading attributes so in some way this node is your Geometry Shader.
 ![alt text](https://github.com/alexnardini/SOPGI/blob/master/img/SOPGI_brdf.jpg)
 For Reflection or Refractions, you can only have full mirrors or full transparent shader or a mix of both.
-
+______________________________________________________
+You can also apply textures to your objects as long as they get stored into point
+attributes and inside `v@diffuseColor` SOPGI ARay will pick them up automachillay and use
+them in the computation.
+![alt text](https://github.com/alexnardini/SOPGI/blob/master/img/SOPGI_textures.jpg)
+`Simple anti-alias noise applied to the cornellBox.`
 ______________________________________________________
 
 # SOPGI CornellBox
