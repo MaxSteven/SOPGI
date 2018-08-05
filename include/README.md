@@ -6,4 +6,4 @@ You can just copy paste into your Houdini Wrangles the part of the code you need
 like for example just one Shading Model function, etc. etc.
 
 Remember to modify those as you need,
-for example remapping channels and attributes to you very own.
+for example remapping channels and attributes to your very own.
