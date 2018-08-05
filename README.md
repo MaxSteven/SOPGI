@@ -69,6 +69,7 @@ It will attach all the shading attributes so in some way this node is your Geome
 
 # SOPGI CornellBox
 ![alt text](https://github.com/alexnardini/SOPGI/blob/master/img/SOPGI_cornellBox.jpg)
+
 This node is a simple utility node that will let you quickly generate
 a CornellBox geometry and tweak its colors.
 It will also let you create some simple geometry inside the box 
