@@ -1,5 +1,5 @@
 ![alt text](https://github.com/alexnardini/SOPGI/blob/master/img/SOPGI_cover.jpg)
-`Very high poly count geometry processed with SOPGI`
+`Very high poly count geometry processed with SOPGI at high settings.`
 
 # SOPGI
 A SideFX Houdini `VEX raytracer` with photon mapping global illumination and full recursive reflections and refractions.
