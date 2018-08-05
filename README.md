@@ -20,6 +20,10 @@ Tested on SideFX Houdini 16.x.x
  data into the geometry to use later for things
  like any other attribute.
  
+ For animation, you will need a toons of photons
+ to remove the noise/flicker in the GI solution.
+ It is just an almost brute force solution after all.
+ 
  It's been architected to give you the best result as quick as
  I could possibly make it so it is to be considered
  a very Novel approach in many areas.
