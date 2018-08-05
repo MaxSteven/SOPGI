@@ -65,6 +65,7 @@ More info about this node soon.
 # SOPGI BRDF
 This node will prepare a geometry to be plugged and processed by the SOPGI ARay node.
 It will attach all the shading attributes so in some way this node is your Geometry Shader.
+![alt text](https://github.com/alexnardini/SOPGI/blob/master/img/SOPGI_brdf.jpg)
 
 # SOPGI CornellBox
 This node is a simple utility node that will let you quickly generate
