@@ -31,6 +31,10 @@ Tested on SideFX Houdini 16.x.x
  Some of the functionality have been implemented in a
  simple fashion.
  Please update this repository if you add or improve anything.
+ 
+ Some part have been coded earlier and some other later in time
+ so some may be a bit incorrect from a pure mathematical point of view
+ then some other as I was learning on the go.
 ______________________________________________________
 
 # CONTENTS
