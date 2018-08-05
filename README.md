@@ -65,7 +65,7 @@ In this implementation LIghts are very simple, they have a color, and intensity,
 # SOPGI RAYviz
 This node is an utility node to let you visualize Light Rays along their traced path.
 It include light bounces so you can specify how many light bounces you want to viz.
-Since Recursions has been implemented later, this node doen not take in account
+Since Recursions has been implemented later, this node does not take into account
 transparent/IOR geometry.
 ![alt text](https://github.com/alexnardini/SOPGI/blob/master/img/SOPGI_RAYviz.jpg)
 
