@@ -21,6 +21,10 @@ Tested on SideFX Houdini 16.x.x
  It's been architected to give you the best result as quick as
  I could possibly make it so it is to be considered
  a very Novel approach in many areas.
+ 
+ Everything in here is more for educational purpose
+ so do not expect a SolidAngle Arnold render quality 
+ and performance out of this... ;)
 ______________________________________________________
 
 # CONTENTS
