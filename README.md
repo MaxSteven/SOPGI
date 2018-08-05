@@ -97,6 +97,7 @@ ______________________________________________________
 This node will prepare a geometry to be plugged and processed by the SOPGI ARay node.
 It will attach all the shading attributes so in some way this node is your Geometry Shader.
 ![alt text](https://github.com/alexnardini/SOPGI/blob/master/img/SOPGI_brdf.jpg)
+For Reflection or Refractions, you can only have full mirrors or full transparent shader.
 
 ______________________________________________________
 
