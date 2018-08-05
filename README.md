@@ -75,7 +75,8 @@ are marked with an Astersisk `*` in front of their name.
 Since everthing get stored on photons, SOPGI ARay create a point cloud
 with all the necessary attributes and everything get transferred to the Geometry
 using point clouds mechanism. This tab let you control how those values get
-transferred like the point cloud Radius, precision and Gaussian Blur filter.
+transferred like the point cloud Radius, precision and Gaussian Blur filter to fine tune the final soultion.
+This can heavily impact the final quality.
 
 #### ARay Compositing:
 This tab let you tweak the way every single render data get composited together.
