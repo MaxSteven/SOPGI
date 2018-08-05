@@ -126,7 +126,7 @@ ______________________________________________________
 # SOPGI Light
 This node will let you convert any Geo into a SOPGI Light to be plugged into the SOPGI ARay node.
 In this implementation LIghts are very simple, they have a color, and intensity, a distance radius and samples count.
-![alt text](https://github.com/alexnardini/SOPGI/blob/master/img/SOPGI_light_raydist.jpg)
+![alt text](https://github.com/alexnardini/SOPGI/blob/master/img/SOPGI_light.jpg)
 `Increasing the light distance/radius.`
 
 ______________________________________________________
