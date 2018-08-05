@@ -79,6 +79,7 @@ This tab let you tweak the way every single render data get composited together.
 Since this happen after the raycasting, depending on your geometry tessellation,
 it can be as fast as realtime.
 
+______________________________________________________
 
 ![alt text](https://github.com/alexnardini/SOPGI/blob/master/img/SOPGI_useBRDF.jpg)
 The " `USE BRDF` " option on the main ARay option tab will disable all the heavy calculation
