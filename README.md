@@ -4,7 +4,6 @@ A SideFX Houdini VEX raytracer with photon mapping global illumination and full 
 Tested on SideFX Houdini 16.x.x
 
 # DISCLAIMER
-______________________________________________________
  SOPGI is a personal side project to teach me
  how to do mostly global illumination with photons
  and many other things I learned on the way.
@@ -16,7 +15,7 @@ ______________________________________________________
  like any other attribute.
 ______________________________________________________
 
-
+# CONTENTS
 SOPGI is comprised of a set of nodes to generate and store
 a proper Raytrace, GI, ShadowMaps and Recursions on a per point level.
 
