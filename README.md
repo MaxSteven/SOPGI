@@ -109,6 +109,17 @@ It will attach all the shading attributes so in some way this node is your Geome
 ![alt text](https://github.com/alexnardini/SOPGI/blob/master/img/SOPGI_brdf.jpg)
 For Reflection or Refractions, you can only have full mirrors or full transparent shader or a mix of both.
 ______________________________________________________
+It does include for DIFFUSE:
+#### Lambert
+#### Oren Nayar
+
+For SPECULAR:
+#### Blinn Phong
+#### Cook Torrance
+#### GGX
+#### GGX1
+#### GGX2
+______________________________________________________
 You can also apply textures to your objects as long as they get stored into point
 attributes and inside `v@diffuseColor` SOPGI ARay will pick them up automatically and use
 them in the computation.
